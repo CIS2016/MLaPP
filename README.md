@@ -6,7 +6,7 @@
 | 章节 | 人员安排 | 内容 |
 | :---: | :---: | :---: |
 | 引论，第1、2章 | Sun Kangming | Introduction & Probability |
-| 第3章 | Hunag Chao| Generative models for discrete data |
+| 第3章 | Huang Chao| Generative models for discrete data |
 | 第4章 | Chen Chaoxing | Gaussian models |
 | 第5章 | Wu Xiaohui | Bayesian statistics |
 | 第6章 | Wang Peifeng | Frequentist statistics |
