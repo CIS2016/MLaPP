@@ -1,7 +1,8 @@
 # MLaPP
 某中学CIS实验室2016年MLaPP读书会
 
-讨论班暂时安排如下：
+## Schedule Table
+讨论班秋季学期暂时安排如下：
 
 | 章节 | 人员安排 | 内容 |
 | :---: | :---: | :---: |
@@ -18,3 +19,8 @@
 | 第12章 | Bo Aofeng | Latent linear models |
 | 第13章 | Yao Renlong | Sparse linear models |
 | 第14章 | Yang Peng | Kernels |
+| 第15章 | Jiang Libin | Gaussian Process |
+
+## Notes
+
+实验室讨论班后会留存 notes，建议可以用 [作业部落编辑器](https://www.zybuluo.com/mdeditor)，支持 markdown, Latex, 流程图等。
