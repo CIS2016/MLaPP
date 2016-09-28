@@ -23,4 +23,4 @@
 
 ## Notes
 
-> 实验室讨论班后会留存 notes，建议可以用 [作业部落编辑器](https://www.zybuluo.com/mdeditor)，支持 markdown, Latex, 流程图等。
+实验室讨论班后会留存 notes，建议可以用 [作业部落编辑器](https://www.zybuluo.com/mdeditor)，支持 markdown, Latex, 流程图等。
